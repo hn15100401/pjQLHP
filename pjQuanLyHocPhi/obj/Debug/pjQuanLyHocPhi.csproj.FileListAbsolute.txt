@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\bin\Debug\pjQuanLyHocPhi.exe.config
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\bin\Debug\pjQuanLyHocPhi.exe
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\bin\Debug\pjQuanLyHocPhi.pdb
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\bin\Debug\Guna.UI2.dll
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.Form1.resources
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.Properties.Resources.resources
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLy.386ED90E.Up2Date
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.exe
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.pdb
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.FormLogin.resources
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.TrangChuFW.resources
+C:\Users\admin\source\repos\pjQuanLyHocPhi\pjQuanLyHocPhi\obj\Debug\pjQuanLyHocPhi.FormLogout.resources
