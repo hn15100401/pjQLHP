@@ -13,7 +13,6 @@ namespace pjQuanLyHocPhi
     public partial class LopHoc : Form
     {
         LopHoc_sub1 sub1;
-        LopHoc_sub2 sub2;
         LopHoc_sub3 sub3;
         public LopHoc()
         {
@@ -37,22 +36,12 @@ namespace pjQuanLyHocPhi
         private void btn_DSLop_Click(object sender, EventArgs e)
         {
             if (sub1 != null) sub1.Close();
-            if (sub2 != null) sub2.Close();
             sub3 = new LopHoc_sub3();
             OpenFormInPanel(sub3);
         }
 
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-            if (sub1 != null) sub1.Close();
-            if (sub3 != null) sub3.Close();
-            sub2 = new LopHoc_sub2();
-            OpenFormInPanel(sub2);
-        }
-
         private void btn_Thaotac_Click(object sender, EventArgs e)
         {
-            if (sub2 != null) sub2.Close();
             if (sub3 != null) sub3.Close();
             sub1 = new LopHoc_sub1();
             OpenFormInPanel(sub1);

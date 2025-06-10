@@ -14,6 +14,7 @@ namespace pjQuanLyHocPhi
     {
         HocVien_sub1 sub1;
         HocVien_sub2 sub2;
+        HocVien_sub3 sub3;
         public HocVien()
         {
             InitializeComponent();
@@ -53,6 +54,14 @@ namespace pjQuanLyHocPhi
             sub2 = new HocVien_sub2();
             OpenFormInPanel(sub2);
 
+        }
+
+        private void btn_LienKet_Click(object sender, EventArgs e)
+        {
+            if (sub1 != null) sub1.Close();
+            if (sub2 != null) sub2.Close();
+            sub3 = new HocVien_sub3();
+            OpenFormInPanel(sub3);
         }
     }
 }

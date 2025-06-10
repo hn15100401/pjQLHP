@@ -32,7 +32,6 @@
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.lbl_text = new System.Windows.Forms.Label();
             this.pn_button = new System.Windows.Forms.Panel();
-            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.btn_DSLop = new Guna.UI2.WinForms.Guna2Button();
             this.btn_Thaotac = new Guna.UI2.WinForms.Guna2Button();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -79,7 +78,6 @@
             // pn_button
             // 
             this.pn_button.BackColor = System.Drawing.Color.Azure;
-            this.pn_button.Controls.Add(this.guna2Button1);
             this.pn_button.Controls.Add(this.btn_DSLop);
             this.pn_button.Controls.Add(this.btn_Thaotac);
             this.pn_button.Dock = System.Windows.Forms.DockStyle.Left;
@@ -87,23 +85,6 @@
             this.pn_button.Name = "pn_button";
             this.pn_button.Size = new System.Drawing.Size(229, 560);
             this.pn_button.TabIndex = 6;
-            // 
-            // guna2Button1
-            // 
-            this.guna2Button1.BackColor = System.Drawing.Color.CadetBlue;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.SteelBlue;
-            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(0, 116);
-            this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(229, 59);
-            this.guna2Button1.TabIndex = 2;
-            this.guna2Button1.Text = "Thao Tác";
-            this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
             // 
             // btn_DSLop
             // 
@@ -115,7 +96,7 @@
             this.btn_DSLop.FillColor = System.Drawing.Color.SteelBlue;
             this.btn_DSLop.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_DSLop.ForeColor = System.Drawing.Color.White;
-            this.btn_DSLop.Location = new System.Drawing.Point(0, 174);
+            this.btn_DSLop.Location = new System.Drawing.Point(0, 113);
             this.btn_DSLop.Name = "btn_DSLop";
             this.btn_DSLop.Size = new System.Drawing.Size(229, 57);
             this.btn_DSLop.TabIndex = 1;
@@ -136,7 +117,7 @@
             this.btn_Thaotac.Name = "btn_Thaotac";
             this.btn_Thaotac.Size = new System.Drawing.Size(229, 59);
             this.btn_Thaotac.TabIndex = 0;
-            this.btn_Thaotac.Text = "Tạo lớp học";
+            this.btn_Thaotac.Text = "Thao Tác";
             this.btn_Thaotac.Click += new System.EventHandler(this.btn_Thaotac_Click);
             // 
             // panel2
@@ -177,6 +158,5 @@
         private Guna.UI2.WinForms.Guna2Button btn_DSLop;
         private Guna.UI2.WinForms.Guna2Button btn_Thaotac;
         private System.Windows.Forms.Panel panel2;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
     }
 }
